@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3488-closest-equal-element-queries](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3488-closest-equal-element-queries) |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->

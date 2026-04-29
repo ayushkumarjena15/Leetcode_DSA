@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 ## Counting
 |  |
 | ------- |
@@ -78,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 <!---LeetCode Topics End-->

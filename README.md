@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3488-closest-equal-element-queries) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -81,8 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->

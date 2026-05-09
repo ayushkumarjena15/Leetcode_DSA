@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0396-rotate-function) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0048-rotate-image) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->

@@ -1,0 +1,30 @@
+import java.util.*;
+
+class Solution {
+    public int minimumEffort(int[][] tasks) {
+
+        Arrays.sort(tasks, (a, b) -> {
+            return (b[1] - b[0]) - (a[1] - a[0]);
+        });
+
+        int energy = 0;
+        int current = 0;
+
+        for (int[] task : tasks) {
+
+            int actual = task[0];
+            int minimum = task[1];
+
+            // if current energy is less than minimum needed
+            if (current < minimum) {
+                energy += (minimum - current);
+                current = minimum;
+            }
+
+            // complete task
+            current -= actual;
+        }
+
+        return energy;
+    }
+}

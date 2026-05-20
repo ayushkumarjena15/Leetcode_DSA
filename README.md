@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->

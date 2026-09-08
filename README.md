@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0396-rotate-function) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

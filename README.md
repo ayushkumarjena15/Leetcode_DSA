@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [1345-jump-game-iv](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2615-sum-of-distances) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0046-permutations) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

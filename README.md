@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0396-rotate-function) |
+| [0904-fruit-into-baskets](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0904-fruit-into-baskets](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2615-sum-of-distances) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->

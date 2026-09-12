@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0048-rotate-image) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1345-jump-game-iv) |

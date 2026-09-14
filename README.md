@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Sorting
 |  |

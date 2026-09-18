@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0396-rotate-function) |
 | [0904-fruit-into-baskets](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1345-jump-game-iv](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2784-check-if-array-is-good](https://github.com/ayushkumarjena15/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
